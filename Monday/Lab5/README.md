@@ -1,6 +1,6 @@
 # Lab 5 - Create a custom VM image
 
-* Create a new Windows VM in a new resource group
+* Start the Windows VM from the previous lab. If you don't have one, just create a new Windows VM in a new resource group
 * RDP to the server. Install IIS using PowerShell with this command: **Install-WindowsFeature Web-Server**
 * Run sysprep to generalize the server (run sysprep.exe)
 * Use the steps listed in this article to capture an image of your server: https://docs.microsoft.com/en-us/azure/virtual-machines/windows/capture-image-resource
