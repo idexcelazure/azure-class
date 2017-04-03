@@ -6,4 +6,4 @@
 * Use the steps listed in this article to capture an image of your server: https://docs.microsoft.com/en-us/azure/virtual-machines/windows/capture-image-resource
 * Deploy a new VM from your new image (hint: you can do this in the portal by navigating to your new image)
 * Double check that IIS is already installed on your new VM based off of your image
-* Delete the resources from this lab when you're done
+* Stop/deallocate the VM...we'll use it in the next lab
