@@ -1,6 +1,6 @@
 # Lab 4 - Change VM size, resize the OS disk, add a data disk
 
-Create a new Windows VM and use the Azure portal to do the following:
+Create a new Windows VM in a new resource group and use the Azure portal to do the following:
 
 * Scale up to a larger VM size
 * Resize the OS disk on your VM
