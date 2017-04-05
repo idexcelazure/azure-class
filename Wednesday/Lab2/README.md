@@ -7,5 +7,5 @@
 * (Optional) Create a load balancer rule for HTTP
 * (Optional) Verify you can visit your website through the load balancer
 * (Optional) Verify your load balanced site still works after killing one of the web servers
-* (Optional) Delete the resource group for this lab when complete
+* Delete the resource group for this lab when complete
 
