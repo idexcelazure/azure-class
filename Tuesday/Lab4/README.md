@@ -1,4 +1,4 @@
-# Lab 5 - Deploy a Web Server VM with ARM Template and DSC Extention
+# Lab 4 - Deploy a Web Server VM with ARM Template and DSC Extention
 
 * Review the code in the azuredeploy.json template
 * Review the code in the DSC folder
