@@ -1,5 +1,8 @@
 # Lab 3 - Create VNet-to-VNet VPN
 
+This article provides a walkthrough:
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal
+
 * Use the New-AzureServer.ps1 scrippt to create two new VMs. The script will create a new vnet for each VM. Make sure you use seperate IPv4 address spaces for each vnet
 * Add a gateway subnet to each vnet
 * Add a VPN gateway to each vnet
