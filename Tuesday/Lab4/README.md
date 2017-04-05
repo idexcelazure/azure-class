@@ -1,8 +1,5 @@
-# Lab 4 - Deploy an AD DS Domain Controller and use Domain Join Extention to add new servers to the domain
+#Lab 5 - Deploy a Web Server VM with ARM Template and DSC Extention
 
-* Launch the AD Domain Controller ARM template from [here](https://github.com/Azure/azure-quickstart-templates/tree/master/active-directory-new-domain)
-* Launch a new server into the same resource group / vnet as the domain controller
-* Make sure your new VM can resolve DNS against the domain controller
-* Use the Azure joindomain extention to join the server to your AD domain (see DomainJoin-Extention-Example.ps1)
-* Delete the resource group from your Azure Pass subscription when complete
 
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fidexcelazure%2F/Tuesday/Lab5%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
