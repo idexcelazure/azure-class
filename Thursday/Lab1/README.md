@@ -19,6 +19,6 @@ Create a "Dev" Deployment Slot
 * Navigate to your "dev" url to see the new version of the Web App
 * After you confirm you have two different versions of your Web App running in the prod and dev deployment slots, perform a deployment slot swap in the portal.  Swap using the "dev" site as the source to destination "production". This simulates moving a new version of your app into production
 * Navigate to the production url to confirm the new version of the app is running there
-* Keep your Visual Studio VM for the next lab!
+* Stop and deallocate your dev VM
 
 
