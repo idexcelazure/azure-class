@@ -6,10 +6,11 @@ Deploy a Web App to Azure:
 * Start Visual Studio - when prompted to sign in, use you Azure trial account credentials
 * Use Visual Studio to create a new Web Application
 * Go to file > new > project and create an empty ASP.NET website
+* Deploy your site to a new Resource Group and App Service plan. Make sure to select at least a Standard tier App Service Plan
 * Right click the project name (e.g. WebApplication1) in the Solution Explorer, go to add > add new item, and add an html page to the project called default.html
 * Add some text to the body of the html page
 * Right click the project and select Publish Web App
-* Deploy your site to a new Resource Group and App Service plan. Make sure to select at least a Standard tier App Service Plan
+
 
 Create a "Dev" Deployment Slot
 
